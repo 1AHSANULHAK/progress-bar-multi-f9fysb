@@ -1,0 +1,28 @@
+.div1 {
+  height: 20px;
+  background-color: #4ec19e;
+  border-top-left-radius: 20px;
+  border-bottom-left-radius: 20px;
+}
+.div2 {
+  height: 20px;
+  background-color: #78ff56;
+   border-top-right-radius: 20px;
+  border-bottom-right-radius: 20px;
+}
+.div3 {
+  height: 20px;
+  background-color: #ff9a56;
+ border-top-right-radius: 20px;
+  border-bottom-right-radius: 20px;
+}
+.meter { 
+	height: 20px;  /* Can be anything */
+	position: relative;
+	background: rgb(243, 240, 240);
+	-moz-border-radius: 25px;
+	-webkit-border-radius: 25px;
+	border-radius: 25px;
+	padding: 10px;
+	box-shadow: inset 0 -1px 1px rgba(255,255,255,0.3);
+}

@@ -1,0 +1,26 @@
+.div1 {
+  height: 40px;
+  background-color: #ffc578;
+}
+.div2 {
+  height: 40px;
+  background-color: #b4e391;
+}
+.div3 {
+  height: 40px;
+  background-color: rgb(255, 48, 25);
+}
+.div4 {
+  height: 40px;
+  background-color: rgb(131, 115, 114);
+}
+.div5 {
+  height: 40px;
+  background-color: rgb(100, 67, 63);
+}
+.centered-content {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  height: 100%; /* Ensures the content takes the full height of the parent div */
+}
